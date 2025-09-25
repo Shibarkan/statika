@@ -22,7 +22,7 @@ function Soal2() {
     -P1 * a +
     q1 * b * (b / 2) +
     P2 * Math.sin((alpha * Math.PI) / 180) * b +
-    q2 * (c + d) * (b + (c+d)/2) +
+    q2 * (c + d) * (b + (c+d)/2) +  
     P3 * Math.sin((beta * Math.PI) / 180) * (b + c + d);
   const VB = VB_total / L;
 
