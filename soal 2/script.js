@@ -51,6 +51,7 @@ function Soal2() {
         <p><strong>Hasil Perhitungan:</strong></p>  
         <p>VA = ${VA.toFixed(5)} kN</p>
         <p>VB = ${VB.toFixed(3)} kN</p>
+        <p>VB = ${SUM.toFixed(5)} kN</p>
         <p>--------------- DICARI YANG POSITIF ---------------</p>
         <p>HA = ${HA.toFixed(5)} kN (jika P2 > P3)</p>
         <p>HA = ${HA2.toFixed(3)} kN (jika P3 > P2)</p>
