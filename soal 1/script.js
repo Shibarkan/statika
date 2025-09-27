@@ -55,7 +55,7 @@ function Soal1() {
         <p>selisih total jarak dengan pusat segitiga = ${cek.toFixed(1)} m</p>
         <p>VA = ${VA.toFixed(3)} kN</p>
         <p>VB = ${VB.toFixed(3)} kN</p>
-        <p>VA + VB = ${SUM.toFixed(3)} kN</p>
+        <p>VA + VB = ${SUM.toFixed(5)} kN</p>
         <p>HA = ${HA.toFixed(1)} kN</p>
         <p><strong>Kontrol Keseimbangan:</strong></p>
         <p>Σ VA + VB = Σ Gaya Vertikal → ${kontrolVA_VB}</p>
